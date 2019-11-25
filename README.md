@@ -30,6 +30,12 @@ $ git config --global user.email "email@example.com"
 ```
 Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et projekt.
 
+## Begreber
+
+Repository
+
 ## Videre læsning
 
 [Guide til at skrive gode commit beskeder](https://chris.beams.io/posts/git-commit/)
+
+[GitHub education cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
