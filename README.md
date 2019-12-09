@@ -39,3 +39,5 @@ Repository
 [Guide til at skrive gode commit beskeder](https://chris.beams.io/posts/git-commit/)
 
 [GitHub education cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+[An interactive git cheat sheet from NPD Software](https://ndpsoftware.com/git-cheatsheet.html)
