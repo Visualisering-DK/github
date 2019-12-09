@@ -28,9 +28,10 @@ Oprette den første fil og begynd at få git til at følge med ændringer.
     * I VS Code git-visning. Hold musen over filen og tryl på plus
 5. Vis med `git status` hvordan filen er flyttet til `staging area`
 6. For at git kan tage et snapshot af hvordan README.md ser ud lige nu, skal den flyttes til sidste state `local repository`. Filen flyttes når vi binder, eller committer os til de nuværende ændringer med `git commit`
-7. En god commit har en præcis og kort (maks 50 tegn) beskrivelse af ændringen. Beskeden tilføjet med flaget `-m` efterfuldt af citationstegn med beskeden i.
+7. En god commit har en præcis og kort (maks 50 tegn) beskrivelse af ændringen. Den skal kommunikere kontekst til os selv og vores medudviklere. For at skrive beskeden tilføjes flaget `-m` efterfuldt af citationstegn med beskeden i.
     * `git commit -m "Oprettet README.md"`
 8. Vis med `git status` at der ikke længere er nogle untracked eller staged filer.
     * `git status`
-9. I stedet kan er vores commit blevet tilføjet til gits log
+9. I stedet er vores commit blevet tilføjet til loggen
     * `git log`
+10. I takt med at et git repository udvikler sig bliver loggen også det længere. Loggen skal hjælpe med at forstå projektets historie, forstå hvilke ændringer der førte til hvad og hvorfor. 
