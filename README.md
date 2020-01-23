@@ -6,7 +6,7 @@ For at komme igang skal du starte med at installere og opsætte git på din comp
 ## For at komme igang
 
 1. Registre en konto på [GitHub](www.github.com)
-2. [Download og installer git](https://git-scm.com/)
+2. [Download og installer git](https://git-scm.com/). Under installationen skal der ikke laves om i indstillingerne.
 3. Opsæt VS Code til at bruge Git Bash som standard
 
     3.1 Åben VS Code
@@ -17,7 +17,9 @@ For at komme igang skal du starte med at installere og opsætte git på din comp
 
     3.4 Vælg `Git Bash`
 
-    3.5 Åben din terminal i VS Code (Ctrl + æ) og tjek at den bruger `bash` 
+    3.5 Genstart VS Code
+
+    3.6 Åben din terminal i VS Code (Ctrl + æ) og tjek at den bruger `bash` 
         
     ![Der skal stå bash i øverste højre hjørne i terminalen](./assets/bash-check.png)
 
@@ -32,7 +34,21 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
 
 ## Begreber
 
-Repository
+<dl>
+  <dt>Git</dt>
+  <dd>Open-source distribueret versionsstyrringssystem. Bruges ofte til, at hndtere ændringer blandt programmører. </dd>
+  <dt>Github</dt>
+  <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management ([Kanban boards](https://en.wikipedia.org/wiki/Kanban_board)) som på Trello</dd>
+  <dt>Repository</dt>
+  <dd></dd>
+  <dt>Clone</dt>
+  <dd>En klon af et eksisterende repository. </dd>
+  <dt>Origin</dt>
+  <dd>Standard navn for det repository som du opretter på fx GitHub og kloner ned. Det er det remote repository som din klon udspringer fra.</dd>
+  <dt>Remote repository</dt>
+  <dd>Se origin</dd>
+</dl>
+
 
 ## Videre læsning
 
