@@ -1,12 +1,12 @@
 # Initialisering af et git repository
-Skridt til gennemgang. Oprettelse af lokalt repository og tilføjelse af fil. Gennemgang kan også optages på video så eleverne kan gense det i eget tempo.
+Trin-for-trin vejledning til oprettelse af lokalt repository og tilføjelse af fil.
 
 ## Oprette git repository
 Oprettelse eller initialisering af et lokalt git repository.
 
 1. Opret mappe til projekt
     * `mkdir MAPPENAVN`
-2. Åben mappe i VS Code (du skal sørge for at stå i den overmappe, som din nye mappe ligger i, hvis du vil bruge "code" til at åbne en mappe i VS Code
+2. Åben mappe i VS Code (du skal sørge for at stå i den overmappe, som din nye mappe ligger i, hvis du vil bruge "code" til at åbne en mappe i VS Code)
     * `code MAPPENAVN`
 3. I det nye VS Code vindue. Åben terminal (Ctrl + æ) og sæt sidebar til Source Code (Ctrl + Shift + G)
 4. Initialisering af et git repository i terminal. Source Code ændrer sig i VS Code og der kommer et 'master' i statuslinjen nederst til venstre og i din terminal.
