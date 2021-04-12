@@ -24,6 +24,6 @@ Vejledning til at oprette et remote repository på GitHub og gøre dette til ori
 
     3.6 Tilføj navn og url til det nu oprettede remote repository på Github med `git remote add origin <url til .git repo>.git`
 
-    3.7 Push lokale ændringer op til remote med `git push -u origin master`. Det er navnet på remote repo efterfulgt af hvilken branch.
+    3.7 Push lokale ændringer op til remote med `git push -u origin main`. Det er navnet på remote repo efterfulgt af hvilken branch.
 
 ![Overblik over nyt repository](../assets/first-remote-repository.png)

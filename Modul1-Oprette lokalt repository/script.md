@@ -9,7 +9,7 @@ Oprettelse eller initialisering af et lokalt git repository.
 2. Åben mappe i VS Code (du skal sørge for at stå i den overmappe, som din nye mappe ligger i, hvis du vil bruge "code" til at åbne en mappe i VS Code)
     * `code MAPPENAVN`
 3. I det nye VS Code vindue. Åben terminal (Ctrl + æ) og sæt sidebar til Source Code (Ctrl + Shift + G)
-4. Initialisering af et git repository i terminal. Source Code ændrer sig i VS Code og der kommer et 'master' i statuslinjen nederst til venstre og i din terminal.
+4. Initialisering af et git repository i terminal. Source Code ændrer sig i VS Code og der kommer et 'main' i statuslinjen nederst til venstre og i din terminal.
     * `git init`
 5. Der er nu oprettet en mappe `.git/` som består af informationer til det nye repository
     * `ls -la`
