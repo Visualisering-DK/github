@@ -28,7 +28,7 @@ Hvis der oprettes en ny fil i et repository så er den i untracked stadiet.
 ```bash
 $ touch README.md
 $ git status
-On branch master
+On branch main
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)   
@@ -41,7 +41,7 @@ For at stage filen til en commit. Altså flytte den eller flere filer til stagin
 ```bash
 $ git add README.md index.html
 $ git status
-On branch master
+On branch main
 
 No commits yet
 
