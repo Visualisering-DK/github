@@ -38,7 +38,7 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
   <dt>Git</dt>
   <dd>Open-source distribueret versionsstyrringssystem. Bruges ofte til, at hndtere ændringer blandt programmører. </dd>
   <dt>Github</dt>
-  <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management ([Kanban boards](https://en.wikipedia.org/wiki/Kanban_board)) som på Trello</dd>
+  <dd>Virksomhed der tilbyder gratis hosting af git repositories. Har også tilføjet andre features som bug tracking, feature requests og task management. Fx Kanban boards som på Trello</dd>
   <dt>Repository</dt>
   <dd></dd>
   <dt>Clone</dt>
@@ -57,3 +57,5 @@ Dette er vigtigt fordi git bruger disse oplysninger når du arbejder på et proj
 [GitHub education cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 [An interactive git cheat sheet from NPD Software](https://ndpsoftware.com/git-cheatsheet.html)
+
+[Kanban boards](https://en.wikipedia.org/wiki/Kanban_board)
